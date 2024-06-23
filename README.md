@@ -14,3 +14,10 @@ drive technological advancement, and solve real-world problems effectively and c
 - 💬 Read my portifolio [here ](https://portfolio.nobertechx.tech/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/norbert-osiemo-0256a4144/) or email me at [mainanorbert@gmail.com](mailto:mainanorbert@gmail.com).
 - ⚡ Fun fact: My all-time favorite movie is "Interstellar." I'm fascinated by its exploration of space, time, and the human condition.
+
+ ## Stats.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainanorbert&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mainanorbert&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Norbert Github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mainanorbert&theme=dark" alt="nober" /></p>
+<br/>
+
