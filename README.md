@@ -1,6 +1,6 @@
 ![Software Engineer](https://github.com/mainanorbert/mainanorbert/blob/main/Make%20your%20README.png)
 <p>
-As a software engineer, my goal is to innovate and develop efficient,
+My goal is to innovate and develop efficient,
 scalable solutions that enhance user experiences,
 drive technological advancement, and solve real-world problems effectively and creatively.
 <p/>
